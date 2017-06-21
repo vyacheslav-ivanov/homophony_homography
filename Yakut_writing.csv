@@ -1,0 +1,99 @@
+script	grapheme	unicode	IPA	comment	source	omniglot
+Yakut	А	U+0410	a		Kharitonov 1947: 47-59	
+Yakut	Аа	U+0410 U+0430	aː		Kharitonov 1947: 47-59	
+Yakut	а	U+0430	a		Kharitonov 1947: 47-59	
+Yakut	аа	U+0430 U+0430	aː		Kharitonov 1947: 47-59	
+Yakut	Ы	U+042B	ɨ		Kharitonov 1947: 47-59	
+Yakut	Ыы	U+042B U+044B	ɨː		Kharitonov 1947: 47-59	
+Yakut	ы	U+044B	ɨ		Kharitonov 1947: 47-59	
+Yakut	ыы	U+044B U+044B	ɨː		Kharitonov 1947: 47-59	
+Yakut	О	U+041E	o		Kharitonov 1947: 47-59	
+Yakut	Оо	U+041E U+043E	oː		Kharitonov 1947: 47-59	
+Yakut	о	U+043E	o		Kharitonov 1947: 47-59	
+Yakut	оо	U+043E U+043E	oː		Kharitonov 1947: 47-59	
+Yakut	У	U+0423	u		Kharitonov 1947: 47-59	
+Yakut	Уу	U+0423 U+0443	uː		Kharitonov 1947: 47-59	
+Yakut	у	U+0443	u		Kharitonov 1947: 47-59	
+Yakut	уу	U+0443 U+0443	uː		Kharitonov 1947: 47-59	
+Yakut	Э	U+042D	ɛ		Kharitonov 1947: 47-59	
+Yakut	Ээ	U+042D U+044D	ɛː		Kharitonov 1947: 47-59	
+Yakut	э	U+044D	ɛ		Kharitonov 1947: 47-59	
+Yakut	ээ	U+044D U+044D	ɛː		Kharitonov 1947: 47-59	
+Yakut	И	U+0418	i		Kharitonov 1947: 47-59	
+Yakut	Ии	U+0418 U+0438	iː		Kharitonov 1947: 47-59	
+Yakut	и	U+0438	i		Kharitonov 1947: 47-59	
+Yakut	ии	U+0438 U+0438	iː		Kharitonov 1947: 47-59	
+Yakut	Ө	U+04E8	ø		Kharitonov 1947: 47-59	
+Yakut	Өө	U+04E8 U+04E9	øː		Kharitonov 1947: 47-59	
+Yakut	ө	U+04E9	ø		Kharitonov 1947: 47-59	
+Yakut	өө	U+04E9 U+04E9	øː		Kharitonov 1947: 47-59	
+Yakut	Ү	U+04AE	y		Kharitonov 1947: 47-59	
+Yakut	Үү	U+04AE U+04AF	yː		Kharitonov 1947: 47-59	
+Yakut	ү	U+04AF	y		Kharitonov 1947: 47-59	
+Yakut	үү	U+04AF U+04AF	yː		Kharitonov 1947: 47-59	
+Yakut	Ыа	U+042B U+0430	ɨa		Kharitonov 1947: 47-59	
+Yakut	ыа	U+044B U+0430	ɨa		Kharitonov 1947: 47-59	
+Yakut	Уо	U+0423 U+043E	uo		Kharitonov 1947: 47-59	
+Yakut	уо	U+0443 U+043E	uo		Kharitonov 1947: 47-59	
+Yakut	Иэ	U+0418 U+044D	iɛ		Kharitonov 1947: 47-59	
+Yakut	иэ	U+0438 U+044D	iɛ		Kharitonov 1947: 47-59	
+Yakut	Үө	U+04AE U+04E9	yø		Kharitonov 1947: 47-59	
+Yakut	үө	U+04AF U+04E9	yø		Kharitonov 1947: 47-59	
+Yakut	Е	U+0415	jɛ		Kharitonov 1947: 47-59	
+Yakut	е	U+0435	jɛ		Kharitonov 1947: 47-59	
+Yakut	Ё	U+0401	jo		Kharitonov 1947: 47-59	
+Yakut	ё	U+0451	jo		Kharitonov 1947: 47-59	
+Yakut	Ю	U+042E	ju		Kharitonov 1947: 47-59	
+Yakut	ю	U+044E	ju		Kharitonov 1947: 47-59	
+Yakut	Я	U+042F	ja		Kharitonov 1947: 47-59	
+Yakut	я	U+044F	ja		Kharitonov 1947: 47-59	
+Yakut	П	U+041F	p		Kharitonov 1947: 47-59	
+Yakut	п	U+043F	p		Kharitonov 1947: 47-59	
+Yakut	Б	U+0411	b		Kharitonov 1947: 47-59	
+Yakut	б	U+0431	b		Kharitonov 1947: 47-59	
+Yakut	Ф	U+0424	f		Kharitonov 1947: 47-59	
+Yakut	ф	U+0444	f		Kharitonov 1947: 47-59	
+Yakut	В	U+0412	v		Kharitonov 1947: 47-59	
+Yakut	в	U+0432	v		Kharitonov 1947: 47-59	
+Yakut	М	U+041C	m		Kharitonov 1947: 47-59	
+Yakut	м	U+043C	m		Kharitonov 1947: 47-59	
+Yakut	Т	U+0422	t		Kharitonov 1947: 47-59	
+Yakut	т	U+0442	t		Kharitonov 1947: 47-59	
+Yakut	Д	U+0414	d		Kharitonov 1947: 47-59	
+Yakut	д	U+0434	d		Kharitonov 1947: 47-59	
+Yakut	С	U+0421	s		Kharitonov 1947: 47-59	
+Yakut	с	U+0441	s		Kharitonov 1947: 47-59	
+Yakut	Ш	U+0428	ʃ		Kharitonov 1947: 47-59	
+Yakut	ш	U+0448	ʃ		Kharitonov 1947: 47-59	
+Yakut	З	U+0417	z		Kharitonov 1947: 47-59	
+Yakut	з	U+0437	z		Kharitonov 1947: 47-59	
+Yakut	Ж	U+0416	ʒ		Kharitonov 1947: 47-59	
+Yakut	ж	U+0436	ʒ		Kharitonov 1947: 47-59	
+Yakut	Н	U+041D	n		Kharitonov 1947: 47-59	
+Yakut	н	U+043D	n		Kharitonov 1947: 47-59	
+Yakut	Л	U+041B	l		Kharitonov 1947: 47-59	
+Yakut	л	U+043B	l		Kharitonov 1947: 47-59	
+Yakut	Р	U+0420	r		Kharitonov 1947: 47-59	
+Yakut	р	U+0440	r		Kharitonov 1947: 47-59	
+Yakut	Й	U+0419	j		Kharitonov 1947: 47-59	
+Yakut	й	U+0439	j		Kharitonov 1947: 47-59	
+Yakut	К	U+041A	k		Kharitonov 1947: 47-59	
+Yakut	к	U+043A	k		Kharitonov 1947: 47-59	
+Yakut	Г	U+0413	g		Kharitonov 1947: 47-59	
+Yakut	г	U+0433	g		Kharitonov 1947: 47-59	
+Yakut	Х	U+0425	χ		Kharitonov 1947: 47-59	
+Yakut	х	U+0445	χ		Kharitonov 1947: 47-59	
+Yakut	Ҕ	U+0494	ʁ		Kharitonov 1947: 47-59	
+Yakut	ҕ	U+0495	ʁ		Kharitonov 1947: 47-59	
+Yakut	ҥ	U+04A5	ŋ		Kharitonov 1947: 47-59	
+Yakut	Һ	U+04BA	h		Kharitonov 1947: 47-59	
+Yakut	һ	U+04BB	h		Kharitonov 1947: 47-59	
+Yakut	Дь	U+0414 U+044C	d͡ʒ		Kharitonov 1947: 47-59	
+Yakut	дь	U+0434 U+044C	d͡ʒ		Kharitonov 1947: 47-59	
+Yakut	Ч	U+0427	t͡ʃ		Kharitonov 1947: 47-59	
+Yakut	ч	U+0447	t͡ʃ		Kharitonov 1947: 47-59	
+Yakut	Ц	U+0426	t͡s		Kharitonov 1947: 47-59	
+Yakut	ц	U+0446	t͡s		Kharitonov 1947: 47-59	
+
+script	collected	source	omniglot
+Yakut	Vyacheslav Ivanov	Kharitonov, L. N. (1947) Sovremennyj yakutskij yazyk: Fonetika i morfologiya. Yakutsk
