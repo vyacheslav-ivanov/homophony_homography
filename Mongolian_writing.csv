@@ -1,0 +1,97 @@
+script	grapheme	unicode	IPA	comment	source	omniglot
+Mongolian	А	U+0410	a		Todaeva 1951: 13-33	
+Mongolian	Аа	U+0430 U+0430	aː		Todaeva 1951: 13-33	
+Mongolian	Ай	U+0410 U+0439	aɪ		Todaeva 1951: 13-33	
+Mongolian	а	U+0430	a		Todaeva 1951: 13-33	
+Mongolian	аа	U+0430 U+0430	аː		Todaeva 1951: 13-33	
+Mongolian	ай	U+0430 U+0439	aɪ		Todaeva 1951: 13-33	
+Mongolian	Б	U+0411	b	только в абсолютном начале слова и после [m], [ɬ], [v]	Todaeva 1951: 13-33
+Mongolian	б	U+0431	b	только в абсолютном начале слова и после [m], [ɬ], [v]	Todaeva 1951: 13-33	
+Mongolian	В	U+0412	w		Todaeva 1951: 13-33	
+Mongolian	в	U+0432	w		Todaeva 1951: 13-33	
+Mongolian	Г	U+0425	g	в словах с гласными переднего ряда	Todaeva 1951: 13-33	
+Mongolian	г	U+0445	g	в словах с гласными переднего ряда	Todaeva 1951: 13-33	
+Mongolian	Д	U+0414	d		Todaeva 1951: 13-33	
+Mongolian	д	U+0434	d		Todaeva 1951: 13-33	
+Mongolian	Е	U+0415	je		Todaeva 1951: 13-33	
+Mongolian	е	U+0435	je		Todaeva 1951: 13-33	
+Mongolian	Ё	U+0401	jo		Todaeva 1951: 13-33	
+Mongolian	ё	U+0451	jo		Todaeva 1951: 13-33	
+Mongolian	Ж	U+0416	d͡ʒ		Todaeva 1951: 13-33	
+Mongolian	ж	U+0436	d͡ʒ		Todaeva 1951: 13-33	
+Mongolian	З	U+0417	d͡z		Todaeva 1951: 13-33	
+Mongolian	з	U+0437	d͡z		Todaeva 1951: 13-33	
+Mongolian	И	U+0418	i		Todaeva 1951: 13-33	
+Mongolian	Ий	U+0418 U+0439	iɪ		Todaeva 1951: 13-33	
+Mongolian	и	U+0438	i		Todaeva 1951: 13-33	
+Mongolian	ий	U+0438 U+0439	iɪ		Todaeva 1951: 13-33	
+Mongolian	иа	U+0418 U+0430	aː	после мягких согласных	Todaeva 1951: 13-33	
+Mongolian	ио	U+0418 U+043E	oː	после мягких согласных	Todaeva 1951: 13-33	
+Mongolian	Й	U+0419	j		Todaeva 1951: 13-33	
+Mongolian	й	U+0439	j		Todaeva 1951: 13-33	
+Mongolian	Л	U+041B	ɬ		Todaeva 1951: 13-33	
+Mongolian	л	U+043B	ɬ		Todaeva 1951: 13-33	
+Mongolian	М	U+041C	m		Todaeva 1951: 13-33	
+Mongolian	м	U+043C	m		Todaeva 1951: 13-33	
+Mongolian	Н	U+041D	n		Todaeva 1951: 13-33	
+Mongolian	н	U+043D	n		Todaeva 1951: 13-33	
+Mongolian	н	U+043D	ŋ	в абсолютном конце слова, а также  перед г	Todaeva 1951: 13-33	
+Mongolian	О	U+041E	o		Todaeva 1951: 13-33	
+Mongolian	Оо	U+041E U+043E	oː		Todaeva 1951: 13-33	
+Mongolian	Ой	U+043E U+0439	oɪ		Todaeva 1951: 13-33	
+Mongolian	о	U+043E	o		Todaeva 1951: 13-33	
+Mongolian	оо	U+043E U+043E	oː		Todaeva 1951: 13-33	
+Mongolian	ой	U+043E U+0439	oɪ		Todaeva 1951: 13-33	
+Mongolian	Ө	U+04E8	ø		Todaeva 1951: 13-33	
+Mongolian	Өө	U+04E8 U+04E9	øː		Todaeva 1951: 13-33	
+Mongolian	ө	U+04E9	ø		Todaeva 1951: 13-33	
+Mongolian	өө	U+04E9 U+04E9	øː		Todaeva 1951: 13-33	
+Mongolian	П	U+041F	p		Todaeva 1951: 13-33	
+Mongolian	п	U+043F	p		Todaeva 1951: 13-33	
+Mongolian	Р	U+0420	r		Todaeva 1951: 13-33	
+Mongolian	р	U+0440	r		Todaeva 1951: 13-33	
+Mongolian	С	U+0421	s		Todaeva 1951: 13-33	
+Mongolian	с	U+0441	s		Todaeva 1951: 13-33	
+Mongolian	Т	U+0422	t		Todaeva 1951: 13-33	
+Mongolian	т	U+0442	t		Todaeva 1951: 13-33	
+Mongolian	У	U+0423	u		Todaeva 1951: 13-33	
+Mongolian	Уу	U+0423 U+0443	uː		Todaeva 1951: 13-33	
+Mongolian	Уй	U+0423 U+0439	uɪ		Todaeva 1951: 13-33	
+Mongolian	у	U+0443	u		Todaeva 1951: 13-33	
+Mongolian	уу	U+0443 U+0443	uː		Todaeva 1951: 13-33	
+Mongolian	уй	U+0443 U+0439	uɪ		Todaeva 1951: 13-33	
+Mongolian	Ү	U+04AE	ʉ		Todaeva 1951: 13-33	
+Mongolian	Үү	U+04AE U+04AF	ʉː		Todaeva 1951: 13-33	
+Mongolian	Үй	U+04AE U+0439	ʉɪ		Todaeva 1951: 13-33	
+Mongolian	ү	U+04AF	ʉ		Todaeva 1951: 13-33	
+Mongolian	үү	U+04AF U+04AF	ʉː		Todaeva 1951: 13-33	
+Mongolian	үй	U+04AF U+0439	ʉɪ		Todaeva 1951: 13-33	
+Mongolian	Х	U+0425	x	в словах с гласными переднего ряда	Todaeva 1951: 13-33	
+Mongolian	Х	U+0425	χ	в словах с гласными заднего ряда	Todaeva 1951: 13-33	
+Mongolian	х	U+0445	x	в словах с гласными переднего ряда	Todaeva 1951: 13-33	
+Mongolian	х	U+0445	χ	в словах с гласными заднего ряда	Todaeva 1951: 13-33	
+Mongolian	Ц	U+0426	t͡s		Todaeva 1951: 13-33	
+Mongolian	ц	U+0446	t͡s		Todaeva 1951: 13-33	
+Mongolian	Ч	U+0427	t͡ʃ		Todaeva 1951: 13-33	
+Mongolian	ч	U+0447	t͡ʃ		Todaeva 1951: 13-33	
+Mongolian	Ш	U+0428	ʃ		Todaeva 1951: 13-33	
+Mongolian	ш	U+0448	ʃ		Todaeva 1951: 13-33	
+Mongolian	ы	U+044B	ɯ		Todaeva 1951: 13-33
+Mongolian	Э	U+042D	e		Todaeva 1951: 13-33	
+Mongolian	Ээ	U+042D U+044D	eː		Todaeva 1951: 13-33	
+Mongolian	Эй	U+042D U+0439	eɪ		Todaeva 1951: 13-33	
+Mongolian	эй	U+044D U+0439	eɪ		Todaeva 1951: 13-33	
+Mongolian	э	U+044D	e		Todaeva 1951: 13-33	
+Mongolian	ээ	U+044D U+044D	eː		Todaeva 1951: 13-33	
+Mongolian	Ю	U+042E	ju		Todaeva 1951: 13-33	
+Mongolian	Ю	U+042E	jʉ		Todaeva 1951: 13-33	
+Mongolian	Юу	U+042E U+0443	juː		Todaeva 1951: 13-33	
+Mongolian	Юу	U+042E U+0443	jʉː		Todaeva 1951: 13-33	
+Mongolian	ю	U+044E	ju		Todaeva 1951: 13-33	
+Mongolian	ю	U+044E	jʉ		Todaeva 1951: 13-33	
+Mongolian	юу	U+044E U+0443	juː		Todaeva 1951: 13-33	
+Mongolian	юу	U+044E U+0443	jʉː		Todaeva 1951: 13-33	
+Mongolian	Я	U+042F	ja		Todaeva 1951: 13-33	
+Mongolian	Яа	U+042F U+0430	jaː		Todaeva 1951: 13-33	
+Mongolian	я	U+044F	ja		Todaeva 1951: 13-33	
+Mongolian	яа	U+044F U+0430	jaː		Todaeva 1951: 13-33	
