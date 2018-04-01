@@ -1,0 +1,91 @@
+script	grapheme	unicode	IPA	comment	source	omniglot
+Turkish	A	U+0041	a		Göksel, Kerslake 2005: 4-11	
+Turkish	a	U+0061	a		Göksel, Kerslake 2005: 4-11	
+Turkish	A	U+0041	ạ	в позиции перед или после [c], [ɟ], [l]	Göksel, Kerslake 2005: 4-11	
+Turkish	a	U+0061	ạ	в позиции перед или после [c], [ɟ], [l]	Göksel, Kerslake 2005: 4-11	
+Turkish	B	U+0042	b		Göksel, Kerslake 2005: 4-11	
+Turkish	b	U+0062	b		Göksel, Kerslake 2005: 4-11	
+Turkish	C	U+0043	d͡ʒ		Göksel, Kerslake 2005: 4-11	
+Turkish	c	U+0063	d͡ʒ		Göksel, Kerslake 2005: 4-11	
+Turkish	ç	U+00E7	t͡ʃ	в позиции перед согласными	Göksel, Kerslake 2005: 4-11	
+Turkish	Ç	U+00C7	t͡ʃʰ	в позиции перед гласными	Göksel, Kerslake 2005: 4-11	
+Turkish	ç	U+00E7	t͡ʃʰ	в позиции перед гласными и в абслютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	D	U+0044	d		Göksel, Kerslake 2005: 4-11	
+Turkish	d	U+0064	d		Göksel, Kerslake 2005: 4-11	
+Turkish	E	U+0045	e		Göksel, Kerslake 2005: 4-11	
+Turkish	e	U+0065	e		Göksel, Kerslake 2005: 4-11	
+Turkish	e	U+0065	ɛ	в абсолютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	E	U+0045	æ	в позиции перед [l], [m], [n], [r], если за ними не следует гласный	Göksel, Kerslake 2005: 4-11	
+Turkish	e	U+0065	æ	в позиции перед [l], [m], [n], [r], если за ними не следует гласный	Göksel, Kerslake 2005: 4-11	
+Turkish	F	U+0046	ɸ	в позиции перед огубленными гласными или в абсолютном конце слова после огубленных гласных	Göksel, Kerslake 2005: 4-11	
+Turkish	f	U+0066	ɸ	в позиции перед огубленными гласными или в абсолютном конце слова после огубленных гласных	Göksel, Kerslake 2005: 4-11	
+Turkish	F	U+0046	f		Göksel, Kerslake 2005: 4-11	
+Turkish	f	U+0066	f		Göksel, Kerslake 2005: 4-11	
+Turkish	G	U+0047	g	в слогах с гласнымим заднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	g	U+0067	g	в слогах с гласнымим заднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	ğ	U+0067	ɣ		Göksel, Kerslake 2005: 4-11	
+Turkish	H	U+0048	ç	в позиции перед гласным переднего ряда, между гласным переднего ряда и согласным	Göksel, Kerslake 2005: 4-11	
+Turkish	h	U+0068	ç	в позиции перед гласным переднего ряда, между гласным переднего ряда и согласным, после гласного переднего ряда в абсолютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	H	U+0048	h	в позиции перед гласным заднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	h	U+0068	h	в позиции перед гласным заднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	h	U+0068	x	в позиции между гласным заднего ряда и согласным, после гласного заднего ряда в абсолютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	İ	U+0049	i		Göksel, Kerslake 2005: 4-11	
+Turkish	i	U+0069	i		Göksel, Kerslake 2005: 4-11	
+Turkish	İ	U+0049	ɪ	в абсолютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	i	U+0069	ɪ	в абсолютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	I	U+0049	ɯ		Göksel, Kerslake 2005: 4-11	
+Turkish	ı	U+0069	ɯ		Göksel, Kerslake 2005: 4-11	
+Turkish	J	U+004A	ʒ	в заимствованиях из индоевропейских языков	Göksel, Kerslake 2005: 4-11	
+Turkish	j	U+006A	ʒ	в заимствованиях из индоевропейских языков	Göksel, Kerslake 2005: 4-11	
+Turkish	k	U+006B	k	в конце слога, содержащего гласный заднего ряда или в позиции перед согласным	Göksel, Kerslake 2005: 4-11	
+Turkish	K	U+004B	kʰ	в позиции перед гласным заднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	k	U+006B	kʰ	в позиции перед гласным заднего ряда или в абсолютном конце слова с предшествующим гласным заднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	k	U+006B	c	в конце слога, содержащего гласный переднего ряда, или перед согласным	Göksel, Kerslake 2005: 4-11	
+Turkish	K	U+004B	cʰ	в позиции перед гласным переднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	k	U+006B	cʰ	в позиции перед гласным переднего ряда или в абсолютном конце слова с предшествующим гласным переднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	L	U+004C	l	перед или после гласного переднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	l	U+006C	l	перед или после гласного переднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	L	U+004C	ł	перед или после гласного заднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	l	U+006C	ł	перед или после гласного заднего ряда	Göksel, Kerslake 2005: 4-11	
+Turkish	M	U+004D	m		Göksel, Kerslake 2005: 4-11	
+Turkish	m	U+006D	m		Göksel, Kerslake 2005: 4-11	
+Turkish	N	U+004E	n	во всех позициях, кроме позиций перед [k], [g]	Göksel, Kerslake 2005: 4-11	
+Turkish	n	U+006E	n	во всех позициях, кроме позиций перед [k], [g]	Göksel, Kerslake 2005: 4-11	
+Turkish	n	U+006E	ŋ	в позиции между гласным заднего ряда и заднеязычным твёрдым согласным	Göksel, Kerslake 2005: 4-11	
+Turkish	n	U+006E	ɲ	в позиции между гласным переднего ряда и заднеязычным мягким согласным	Göksel, Kerslake 2005: 4-11	
+Turkish	O	U+004F	o	только в первом слоге исконных слов	Göksel, Kerslake 2005: 4-11	
+Turkish	o	U+006F	o	только в первом слоге исконных слов	Göksel, Kerslake 2005: 4-11	
+Turkish	O	U+004F	ọ	в позиции перед или после [l]	Göksel, Kerslake 2005: 4-11	
+Turkish	o	U+006F	ọ	в позиции перед или после [l]	Göksel, Kerslake 2005: 4-11	
+Turkish	Ö	U+00D6	ø		Göksel, Kerslake 2005: 4-11	
+Turkish	ö	U+00F6	ø		Göksel, Kerslake 2005: 4-11	
+Turkish	P	U+0050	p	в позиции перед согласным	Göksel, Kerslake 2005: 4-11	
+Turkish	p	U+0070	p	в позиции перед согласным	Göksel, Kerslake 2005: 4-11	
+Turkish	P	U+0050	pʰ	в позиции перед гласным	Göksel, Kerslake 2005: 4-11	
+Turkish	p	U+0070	pʰ	в позиции перед гласным или в абсолютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	R	U+0052	r	в начале и середине слова	Göksel, Kerslake 2005: 4-11	
+Turkish	r	U+0072	r	в начале и середине слова	Göksel, Kerslake 2005: 4-11	
+Turkish	r	U+0072	̥ɾ	в конце слова	Göksel, Kerslake 2005: 4-11 4-11	
+Turkish	S	U+0053	s		Göksel, Kerslake 2005: 4-11	
+Turkish	s	U+0073	s		Göksel, Kerslake 2005: 4-11	
+Turkish	Ş	U+015E	ʃ		Göksel, Kerslake 2005: 4-11	
+Turkish	ş	U+015F	ʃ		Göksel, Kerslake 2005: 4-11	
+Turkish	T	U+0054	t	в позиции перед согласным	Göksel, Kerslake 2005: 4-11	
+Turkish	t	U+0074	tʰ	в позиции перед гласным или в абсолютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	U	U+0055	u		Göksel, Kerslake 2005: 4-11	
+Turkish	u	U+0075	u		Göksel, Kerslake 2005: 4-11	
+Turkish	U	U+0055	ụ	в позиции перед или после [c], [ɟ], [l] в заимствованиях	Göksel, Kerslake 2005: 4-11	
+Turkish	u	U+0075	ụ	в позиции перед или после [c], [ɟ], [l] в заимствованиях	Göksel, Kerslake 2005: 4-11	
+Turkish	u	U+0075	ʊ	в абслютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	Ü	U+00DC	y		Göksel, Kerslake 2005: 4-11	
+Turkish	ü	U+00FC	y		Göksel, Kerslake 2005: 4-11	
+Turkish	ü	U+00FC	ʏ	в абслютном конце слова	Göksel, Kerslake 2005: 4-11	
+Turkish	V	U+0056	β	в позиции перед или после огубленного гласного	Göksel, Kerslake 2005: 4-11	
+Turkish	v	U+0076	β	в позиции перед или после огубленного гласного	Göksel, Kerslake 2005: 4-11	
+Turkish	V	U+0056	v		Göksel, Kerslake 2005: 4-11	
+Turkish	v	U+0076	v		Göksel, Kerslake 2005: 4-11	
+Turkish	v	U+0076	w	в интервокальной позиции с последующим огубленным гласным	Göksel, Kerslake 2005: 4-11	
+Turkish	Y	U+0059	j		Göksel, Kerslake 2005: 4-11	
+Turkish	y	U+0079	j		Göksel, Kerslake 2005: 4-11	
+Turkish	Z	U+005A	z		Göksel, Kerslake 2005: 4-11	
+Turkish	z	U+007A	z		Göksel, Kerslake 2005: 4-11	

@@ -1,0 +1,137 @@
+script	grapheme	unicode	IPA	comment	source	omniglot
+Nanai	А	U+0410	a		Avrorin 1959: 66-70	
+Nanai	А	U+0410	aː		Avrorin 1959: 66-70	
+Nanai	Ай	U+0410 U+0439	ae		Avrorin 1959: 66-70	
+Nanai	Аи	U+0410 U+0438	ae		Avrorin 1959: 66-70	
+Nanai	Ао	U+0410 U+043E	ao		Avrorin 1959: 66-70	
+Nanai	а	U+0430	a		Avrorin 1959: 66-70	
+Nanai	а	U+0430	аː		Avrorin 1959: 66-70	
+Nanai	ай	U+0430 U+0439	ae		Avrorin 1959: 66-70	
+Nanai	аи	U+0430 U+0438	ae		Avrorin 1959: 66-70	
+Nanai	ан	U+0430 U+043D	aⁿ		Avrorin 1959: 66-70	
+Nanai	ао	U+0430 U+043E	ao		Avrorin 1959: 66-70	
+Nanai	аон	U+0430 U+043E U+043D	aoⁿ		Avrorin 1959: 66-70	
+Nanai	аин	U+0430 U+0438 U+043D	aeⁿ		Avrorin 1959: 66-70	
+Nanai	Б	U+0411	b		Avrorin 1959: 66-70	
+Nanai	б	U+0431	b		Avrorin 1959: 66-70	
+Nanai	В	U+0412	β		Avrorin 1959: 66-70	
+Nanai	в	U+0432	β		Avrorin 1959: 66-70	
+Nanai	Г	U+0413	g		Avrorin 1959: 66-70	
+Nanai	г	U+0433	g		Avrorin 1959: 66-70	
+Nanai	Д	U+0414	d		Avrorin 1959: 66-70	
+Nanai	Д	U+0414	d͡ʒ	в позиции перед е, ё, и, ю, я	Avrorin 1959: 66-70	
+Nanai	д	U+0434	d		Avrorin 1959: 66-70	
+Nanai	д	U+0434	d͡ʒ	в позиции перед е, ё, и, ю, я	Avrorin 1959: 66-70	
+Nanai	Е	U+0415	jə		Avrorin 1959: 66-70	
+Nanai	е	U+0435	jə		Avrorin 1959: 66-70	
+Nanai	е	U+0435	ə	в позиции после д и н	Avrorin 1959: 66-70	
+Nanai	ей	U+0435 U+0439	əi		Avrorin 1959: 66-70	
+Nanai	еу	U+0435 U+0443	əu		Avrorin 1959: 66-70	
+Nanai	еин	U+0435 U+0438 U+043D	əiⁿ		Avrorin 1959: 66-70	
+Nanai	еун	U+0435 U+0443 U+043D	əuⁿ		Avrorin 1959: 66-70	
+Nanai	Ё	U+0401	jo		Avrorin 1959: 66-70	
+Nanai	ё	U+0451	jo		Avrorin 1959: 66-70	
+Nanai	ё	U+0451	o	в позиции после д и н	Avrorin 1959: 66-70	
+Nanai	ё	U+0451	oː		Avrorin 1959: 66-70	
+Nanai	ён	U+0451 U+043D	oⁿ		Avrorin 1959: 66-70	
+Nanai	ёй	U+0451 U+0439	oi		Avrorin 1959: 66-70	
+Nanai	ёа	U+0451 U+0430	oa		Avrorin 1959: 66-70	
+Nanai	ёин	U+0451 U+0438 U+043D	oiⁿ		Avrorin 1959: 66-70
+Nanai	ёан	U+0451 U+0430 U+043D	oaⁿ		Avrorin 1959: 66-70	
+Nanai	И	U+0418	i		Avrorin 1959: 66-70	
+Nanai	И	U+0418	iː		Avrorin 1959: 66-70	
+Nanai	И	U+0418	e		Avrorin 1959: 66-70	
+Nanai	И	U+0418	eː		Avrorin 1959: 66-70	
+Nanai	И	U+0418	ji		Avrorin 1959: 66-70	
+Nanai	И	U+0418	je		Avrorin 1959: 66-70	
+Nanai	и	U+0438	i		Avrorin 1959: 66-70	
+Nanai	и	U+0438	iː		Avrorin 1959: 66-70	
+Nanai	и	U+0438	e		Avrorin 1959: 66-70	
+Nanai	и	U+0438	eː		Avrorin 1959: 66-70	
+Nanai	и	U+0438	ji		Avrorin 1959: 66-70	
+Nanai	и	U+0438	je		Avrorin 1959: 66-70	
+Nanai	ин	U+0438 U+043D	iⁿ		Avrorin 1959: 66-70	
+Nanai	ин	U+0438 U+043D	eⁿ		Avrorin 1959: 66-70	
+Nanai	иэ	U+0438 U+044D	iə		Avrorin 1959: 66-70	
+Nanai	иу	U+0438 U+0443	iu		Avrorin 1959: 66-70	
+Nanai	иа	U+0438 U+0430	ia		Avrorin 1959: 66-70	
+Nanai	ио	U+0438 U+043E	io		Avrorin 1959: 66-70	
+Nanai	иэн	U+0438 U+044D U+043D	iəⁿ		Avrorin 1959: 66-70	
+Nanai	иун	U+0438 U+0443 U+043D	iəⁿ		Avrorin 1959: 66-70	
+Nanai	иан	U+0438 U+0430 U+043D	iəⁿ		Avrorin 1959: 66-70	
+Nanai	ион	U+0438 U+043E U+043D	iəⁿ		Avrorin 1959: 66-70	
+Nanai	К	U+041A	k		Avrorin 1959: 66-70	
+Nanai	к	U+043A	k		Avrorin 1959: 66-70	
+Nanai	Л	U+041B	l		Avrorin 1959: 66-70	
+Nanai	л	U+043B	l		Avrorin 1959: 66-70	
+Nanai	М	U+041C	m		Avrorin 1959: 66-70	
+Nanai	м	U+043C	m		Avrorin 1959: 66-70	
+Nanai	Н	U+041D	n		Avrorin 1959: 66-70	
+Nanai	Н	U+041D	ɲ	в позиции перед е, ё, и, ю, я	Avrorin 1959: 66-70	
+Nanai	н	U+043D	n		Avrorin 1959: 66-70	
+Nanai	н	U+043D	ɲ	в позиции перед е, ё, и, ю, я	Avrorin 1959: 66-70	
+Nanai	н	U+043D	ŋ	в позиции перед г, х, к	Avrorin 1959: 66-70	
+Nanai	нг	U+043D U+0433	ŋ		Avrorin 1959: 66-70	
+Nanai	О	U+041E	o		Avrorin 1959: 66-70	
+Nanai	О	U+041E	oː		Avrorin 1959: 66-70	
+Nanai	Ой	U+041E U+0439	oe		Avrorin 1959: 66-70	
+Nanai	о	U+043E	o		Avrorin 1959: 66-70	
+Nanai	о	U+043E	oː		Avrorin 1959: 66-70	
+Nanai	он	U+043E U+043D	oⁿ		Avrorin 1959: 66-70	
+Nanai	ой	U+043E U+0439	oi		Avrorin 1959: 66-70	
+Nanai	ои	U+043E U+0438	oi		Avrorin 1959: 66-70	
+Nanai	оа	U+043E U+0430	oa		Avrorin 1959: 66-70	
+Nanai	оин	U+043E U+0438 U+043D	oiⁿ		Avrorin 1959: 66-70	
+Nanai	оан	U+043E U+0430 U+043D	oaⁿ		Avrorin 1959: 66-70	
+Nanai	П	U+041F	p		Avrorin 1959: 66-70	
+Nanai	п	U+043F	p		Avrorin 1959: 66-70	
+Nanai	Р	U+0420	r		Avrorin 1959: 66-70	
+Nanai	р	U+0440	r		Avrorin 1959: 66-70	
+Nanai	С	U+0421	s		Avrorin 1959: 66-70	
+Nanai	с	U+0441	s		Avrorin 1959: 66-70	
+Nanai	Т	U+0422	t		Avrorin 1959: 66-70	
+Nanai	т	U+0442	t		Avrorin 1959: 66-70	
+Nanai	У	U+0423	u		Avrorin 1959: 66-70	
+Nanai	У	U+0423	uː		Avrorin 1959: 66-70	
+Nanai	Уй	U+0423 U+0439	ui		Avrorin 1959: 66-70	
+Nanai	у	U+0443	u		Avrorin 1959: 66-70	
+Nanai	у	U+0443	uː		Avrorin 1959: 66-70	
+Nanai	уй	U+0443 U+0439	uː		Avrorin 1959: 66-70	
+Nanai	уй	U+0443 U+0439	ui		Avrorin 1959: 66-70	
+Nanai	уи	U+0443 U+0438	ui		Avrorin 1959: 66-70	
+Nanai	ун	U+0443 U+043D	uⁿ		Avrorin 1959: 66-70	
+Nanai	уэ	U+0443 U+044D	uə		Avrorin 1959: 66-70	
+Nanai	уин	U+0443 U+0438 U+043D	uiⁿ		Avrorin 1959: 66-70	
+Nanai	уэн	U+0443 U+044D U+043D	uəⁿ		Avrorin 1959: 66-70	
+Nanai	Х	U+0425	x	в словах с гласными переднего ряда	Avrorin 1959: 66-70	
+Nanai	х	U+0445	x		Avrorin 1959: 66-70	
+Nanai	Ч	U+0427	t͡ʃ		Avrorin 1959: 66-70	
+Nanai	ч	U+0447	t͡ʃ		Avrorin 1959: 66-70	
+Nanai	ы	U+044B	ɯ		Avrorin 1959: 66-70	
+Nanai	Э	U+042D	ə		Avrorin 1959: 66-70	
+Nanai	Э	U+042D	əː		Avrorin 1959: 66-70	
+Nanai	Эй	U+042D U+0439	əi		Avrorin 1959: 66-70	
+Nanai	э	U+044D	ə		Avrorin 1959: 66-70	
+Nanai	э	U+044D	əː		Avrorin 1959: 66-70	
+Nanai	эй	U+044D U+0439	əi		Avrorin 1959: 66-70	
+Nanai	эи	U+044D U+0438	əi		Avrorin 1959: 66-70	
+Nanai	эу	U+044D U+0443	əu		Avrorin 1959: 66-70	
+Nanai	эин	U+044D U+0438 U+043D	əiⁿ		Avrorin 1959: 66-70	
+Nanai	эун	U+044D U+0443 U+043D	əuⁿ		Avrorin 1959: 66-70	
+Nanai	Ю	U+042E	ju		Avrorin 1959: 66-70	
+Nanai	ю	U+044E	ju		Avrorin 1959: 66-70	
+Nanai	юй	U+044E U+0439	ui		Avrorin 1959: 66-70	
+Nanai	юн	U+044E U+043D	uⁿ		Avrorin 1959: 66-70	
+Nanai	юэ	U+044E U+044D	uə		Avrorin 1959: 66-70	
+Nanai	юин	U+044E U+0438 U+043D	uiⁿ		Avrorin 1959: 66-70	
+Nanai	юэн	U+044E U+044D U+043D	uəⁿ		Avrorin 1959: 66-70	
+Nanai	Я	U+042F	ja		Avrorin 1959: 66-70	
+Nanai	Яй	U+042F U+0439	ai		Avrorin 1959: 66-70	
+Nanai	Яи	U+042F U+0438	ai		Avrorin 1959: 66-70	
+Nanai	я	U+044F	ja		Avrorin 1959: 66-70	
+Nanai	яй	U+044F U+0439	jaː		Avrorin 1959: 66-70	
+Nanai	яи	U+044F U+0438	jaː		Avrorin 1959: 66-70	
+Nanai	ян	U+044F U+043D	aⁿ		Avrorin 1959: 66-70	
+Nanai	яо	U+044F U+043E	ao		Avrorin 1959: 66-70	
+Nanai	яин	U+044F U+0438 U+043D	aiⁿ		Avrorin 1959: 66-70	
+Nanai	яон	U+044F U+043E U+043D	aoⁿ		Avrorin 1959: 66-70	

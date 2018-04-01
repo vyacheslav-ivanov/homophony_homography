@@ -1,0 +1,56 @@
+script	grapheme	unicode	IPA	comment	source	omniglot
+Chukchi	А	U+0410	a		Skorik P. Ja. (1961): 22-76	
+Chukchi	а	U+0430	a		Skorik P. Ja. (1961): 22-76	
+Chukchi	В	U+0412	w		Skorik P. Ja. (1961): 22-76	
+Chukchi	в	U+0432	w		Skorik P. Ja. (1961): 22-76	
+Chukchi	Г	U+0413	ɣ		Skorik P. Ja. (1961): 22-76	
+Chukchi	г	U+0433	ɣ		Skorik P. Ja. (1961): 22-76	
+Chukchi	Е	U+0415	e		Skorik P. Ja. (1961): 22-76	
+Chukchi	Е	U+0415	je		Skorik P. Ja. (1961): 22-76	
+Chukchi	е	U+0435	e		Skorik P. Ja. (1961): 22-76	
+Chukchi	е	U+0435	je		Skorik P. Ja. (1961): 22-76	
+Chukchi	Ё	U+0401	jo		Skorik P. Ja. (1961): 22-76	
+Chukchi	ё	U+0451	jo		Skorik P. Ja. (1961): 22-76	
+Chukchi	И	U+0418	i		Skorik P. Ja. (1961): 22-76	
+Chukchi	и	U+0438	i		Skorik P. Ja. (1961): 22-76	
+Chukchi	Й	U+0419	j		Skorik P. Ja. (1961): 22-76	
+Chukchi	й	U+0439	j		Skorik P. Ja. (1961): 22-76	
+Chukchi	К	U+041A	k		Skorik P. Ja. (1961): 22-76	
+Chukchi	к	U+043A	k		Skorik P. Ja. (1961): 22-76	
+Chukchi	Ӄ	U+04C3	q		Skorik P. Ja. (1961): 22-76	
+Chukchi	ӄ	U+04C4	q		Skorik P. Ja. (1961): 22-76	
+Chukchi	Ԓ	U+0512	ɬ		Skorik P. Ja. (1961): 22-76	
+Chukchi	ԓ	U+0513	ɬ		Skorik P. Ja. (1961): 22-76	
+Chukchi	М	U+041C	m		Skorik P. Ja. (1961): 22-76	
+Chukchi	м	U+043C	m		Skorik P. Ja. (1961): 22-76	
+Chukchi	Н	U+041D	n		Skorik P. Ja. (1961): 22-76	
+Chukchi	н	U+043D	n		Skorik P. Ja. (1961): 22-76	
+Chukchi	Ӈ	U+04C7	ŋ		Skorik P. Ja. (1961): 22-76	
+Chukchi	ӈ	U+04C8	ŋ		Skorik P. Ja. (1961): 22-76	
+Chukchi	О	U+041E	o		Skorik P. Ja. (1961): 22-76	
+Chukchi	о	U+043E	o		Skorik P. Ja. (1961): 22-76	
+Chukchi	П	U+041F	p		Skorik P. Ja. (1961): 22-76	
+Chukchi	п	U+043F	p		Skorik P. Ja. (1961): 22-76	
+Chukchi	Р	U+0420	r		Skorik P. Ja. (1961): 22-76	
+Chukchi	р	U+0440	r		Skorik P. Ja. (1961): 22-76	
+Chukchi	С	U+0421	s		Skorik P. Ja. (1961): 22-76	
+Chukchi	с	U+0441	s		Skorik P. Ja. (1961): 22-76	
+Chukchi	Т	U+0422	t		Skorik P. Ja. (1961): 22-76	
+Chukchi	т	U+0442	t		Skorik P. Ja. (1961): 22-76	
+Chukchi	У	U+0423	u		Skorik P. Ja. (1961): 22-76	
+Chukchi	у	U+0443	u		Skorik P. Ja. (1961): 22-76	
+Chukchi	Ч	U+0427	t͡ʃ		Skorik P. Ja. (1961): 22-76	
+Chukchi	ч	U+0447	t͡ʃ		Skorik P. Ja. (1961): 22-76	
+Chukchi	Ъ	U+042A	ʔ	во всех позициях, кроме позиций после согласных [ɬ], [t͡ʃ] и гласных	Skorik P. Ja. (1961): 22-76	
+Chukchi	ъ	U+044A	ʔ		Skorik P. Ja. (1961): 22-76	
+Chukchi	Ы	U+042B	ə		Skorik P. Ja. (1961): 22-76	
+Chukchi	ы	U+044B	ə		Skorik P. Ja. (1961): 22-76	
+Chukchi	Ь	U+042C	ʔ	после согласных [ɬ], [t͡ʃ]	Skorik P. Ja. (1961): 22-76	
+Chukchi	ь	U+044C	ʔ		Skorik P. Ja. (1961): 22-76	
+Chukchi	Э	U+042D	e	кроме позиций после [ɬ], [t͡ʃ]	Skorik P. Ja. (1961): 22-76	
+Chukchi	э	U+044D	e	кроме позиций после [ɬ], [t͡ʃ]	Skorik P. Ja. (1961): 22-76	
+Chukchi	Ю	U+042E	ju		Skorik P. Ja. (1961): 22-76	
+Chukchi	ю	U+044E	ju		Skorik P. Ja. (1961): 22-76	
+Chukchi	Я	U+042F	ja		Skorik P. Ja. (1961): 22-76	
+Chukchi	я	U+044F	ja		Skorik P. Ja. (1961): 22-76	
+Chukchi	'	U+0027	ʔ	в начале слова после гласного	Skorik P. Ja. (1961): 22-76	

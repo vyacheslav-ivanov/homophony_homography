@@ -1,0 +1,67 @@
+script	grapheme	unicode	IPA	comment	source	omniglot
+Koryak	А	U+0410	a		Zhukova A. N. (1972): 7-42	
+Koryak	а	U+0430	a		Zhukova A. N. (1972): 7-42	
+Nanai	Б	U+0411	b		Zhukova A. N. (1972): 7-42	
+Nanai	б	U+0431	b		Zhukova A. N. (1972): 7-42	
+Koryak	В	U+0412	v	во всех позициях, кроме конца слова	Zhukova A. N. (1972): 7-42	
+Koryak	в	U+0432	v	во всех позициях, кроме конца слова	Zhukova A. N. (1972): 7-42	
+Koryak	В'	U+0412 U+0027	w		Zhukova A. N. (1972): 7-42	
+Koryak	в'	U+0432 U+0027	w		Zhukova A. N. (1972): 7-42	
+Koryak	Г	U+0413	g		Zhukova A. N. (1972): 7-42	
+Koryak	г	U+0433	g		Zhukova A. N. (1972): 7-42	
+Koryak	Г'	U+0413 U+0027	ʕ		Zhukova A. N. (1972): 7-42	
+Koryak	г'	U+0433 U+0027	ʕ		Zhukova A. N. (1972): 7-42	
+Koryak	Е	U+0415	e		Zhukova A. N. (1972): 7-42	
+Koryak	е	U+0435	e		Zhukova A. N. (1972): 7-42	
+Koryak	е	U+0435	je		Zhukova A. N. (1972): 7-42	
+Koryak	Ё	U+0401	jo		Zhukova A. N. (1972): 7-42	
+Koryak	ё	U+0451	jo		Zhukova A. N. (1972): 7-42	
+Koryak	Ж	U+0416	ʒ		Zhukova A. N. (1972): 7-42	
+Koryak	ж	U+0436	ʒ		Zhukova A. N. (1972): 7-42	
+Koryak	З	U+0417	z		Zhukova A. N. (1972): 7-42	
+Koryak	з	U+0437	z		Zhukova A. N. (1972): 7-42	
+Koryak	И	U+0418	i		Zhukova A. N. (1972): 7-42	
+Koryak	и	U+0438	i		Zhukova A. N. (1972): 7-42	
+Koryak	Й	U+0419	j		Zhukova A. N. (1972): 7-42	
+Koryak	й	U+0439	j		Zhukova A. N. (1972): 7-42	
+Koryak	К	U+041A	k		Zhukova A. N. (1972): 7-42	
+Koryak	к	U+043A	k		Zhukova A. N. (1972): 7-42	
+Koryak	Ӄ	U+04C3	q		Zhukova A. N. (1972): 7-42	
+Koryak	ӄ	U+04C4	q		Zhukova A. N. (1972): 7-42	
+Koryak	Л	U+041B	l		Zhukova A. N. (1972): 7-42	
+Koryak	Л	U+041B	l'		Zhukova A. N. (1972): 7-42	
+Koryak	л	U+043B	l		Zhukova A. N. (1972): 7-42	
+Koryak	л	U+043B	l'		Zhukova A. N. (1972): 7-42	
+Koryak	М	U+041C	m		Zhukova A. N. (1972): 7-42	
+Koryak	м	U+043C	m		Zhukova A. N. (1972): 7-42	
+Koryak	Н	U+041D	n		Zhukova A. N. (1972): 7-42	
+Koryak	Н	U+041D	n'		Zhukova A. N. (1972): 7-42	
+Koryak	н	U+043D	n		Zhukova A. N. (1972): 7-42	
+Koryak	н	U+043D	n'		Zhukova A. N. (1972): 7-42	
+Koryak	Ӈ	U+04C7	ŋ		Zhukova A. N. (1972): 7-42	
+Koryak	ӈ	U+04C8	ŋ		Zhukova A. N. (1972): 7-42	
+Koryak	О	U+041E	o		Zhukova A. N. (1972): 7-42	
+Koryak	о	U+043E	o		Zhukova A. N. (1972): 7-42	
+Koryak	П	U+041F	p		Zhukova A. N. (1972): 7-42	
+Koryak	п	U+043F	p		Zhukova A. N. (1972): 7-42	
+Koryak	Р	U+0420	r		Zhukova A. N. (1972): 7-42	
+Koryak	р	U+0440	r		Zhukova A. N. (1972): 7-42	
+Koryak	С	U+0421	s		Zhukova A. N. (1972): 7-42	
+Koryak	с	U+0441	s		Zhukova A. N. (1972): 7-42	
+Koryak	Т	U+0422	t		Zhukova A. N. (1972): 7-42	
+Koryak	т	U+0442	t		Zhukova A. N. (1972): 7-42	
+Koryak	У	U+0423	u		Zhukova A. N. (1972): 7-42	
+Koryak	у	U+0443	u		Zhukova A. N. (1972): 7-42	
+Koryak	Ч	U+0427	t͡ʃ		Zhukova A. N. (1972): 7-42	
+Koryak	ч	U+0447	t͡ʃ		Zhukova A. N. (1972): 7-42	
+Koryak	Ы	U+042B	ə		Zhukova A. N. (1972): 7-42	
+Koryak	ы	U+044B	ə		Zhukova A. N. (1972): 7-42	
+Koryak	Ь	U+042C	ʔ		Zhukova A. N. (1972): 7-42	
+Koryak	ь	U+044C	ʔ		Zhukova A. N. (1972): 7-42	
+Koryak	Э	U+042D	e		Zhukova A. N. (1972): 7-42	
+Koryak	э	U+044D	e		Zhukova A. N. (1972): 7-42	
+Koryak	Ю	U+042E	ju		Zhukova A. N. (1972): 7-42	
+Koryak	ю	U+044E	ju		Zhukova A. N. (1972): 7-42	
+Koryak	Я	U+042F	ja		Zhukova A. N. (1972): 7-42	
+Koryak	я	U+044F	ja		Zhukova A. N. (1972): 7-42	
+Koryak	'	U+0027	ʔ		Zhukova A. N. (1972): 7-42	
