@@ -1,0 +1,57 @@
+script	grapheme	unicode	IPA	comment	source	omniglot	contributor
+Kri	A	U+0041	a		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	a	U+0061	a		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	aa	U+0061 U+0061	aː		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	E	U+0045	ɛ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	e	U+0065	ɛ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	ee	U+0065 U+0065	ɛː		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	I	U+0049	i		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	i	U+0069	i		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	ii	U+0069 U+0069	iː		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	O	U+004F	ɔ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	o	U+006F	ɔ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	oo	U+006F U+006F	ɔː		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	Ô	U+00D4	ɑ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	ô	U+00F4	ɑ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	ôô	U+00F4 U+00F4	ɑː		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	B	U+0042	ɓ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	b	U+0062	ɓ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	C	U+0043	c	На конце слова cˀ	Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	c	U+0063	c	На конце слова cˀ	Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	D	U+0044	ɗ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	d	U+0064	ɗ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	Gh	U+0047 U+0068	ɣ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	gh	U+0067 U+0068	ɣ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	H	U+0048	h		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	h	U+0068	h		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	J	U+004A	j~ʝ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	j	U+006A	j~ʝ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	K	U+004B	kˀ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	k	U+006B	kˀ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	Kh	U+004B U+0068	kʰ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	kh	U+006B U+0068	kʰ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	L	U+004C	l		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	l	U+006C	l		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	M	U+004D	m		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	m	U+006D	m		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	N	U+004E	n		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	n	U+006E	n		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	ng	U+006E U+0067	ŋ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	Ñ	U+00D1	ɲ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	ñ	U+00F1	ɲ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	P	U+0050	p	На конце слова pˀ	Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	p	U+0070	p	На конце слова pˀ	Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	ph	U+0070 U+0068	pʰ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	qj	U+0071 U+006A	ʄ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	R	U+0052	r~ʐ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+kri	r	U+0072	r~ʐ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	S	U+0053	s		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	s	U+0073	s		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	T	U+0054	t	На конце слова tˀ	Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	Th	U+0054 U+0068	tʰ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	t	U+0074	t	На конце слова tˀ	Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	th	U+0074 U+0068	tʰ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	tzr	U+0074 U+007A U+0072	ʈʂ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	tzrh	U+0074 U+007A U+0072 U+0068	ʈʂʰ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	V	U+0056	ʋ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina
+Kri	v	U+0076	ʋ		Enfield, Diffloth 2009: 8-34	http://omniglot.com/writing/kri.htm	Daria Demkina

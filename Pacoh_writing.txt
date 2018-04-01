@@ -1,0 +1,98 @@
+script	grapheme	unicode	IPA	comment	source	omniglot	contributor
+Pacoh	A	U+0041	aː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	a	U+0061	aː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	aơ	U+0061 U+01A1	ɯ˷ː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Á	U+00C1	a		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	á	U+00E1	a		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	áơ	U+00E1 U+01A1	ɯ˷		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Â	U+00C2	ɤ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	â	U+00E2	ɤ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	B	U+0042	ɓ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	b	U+0062	ɓ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	C	U+0043	k		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	c	U+0063	k		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ch	U+0063 U+0068	c		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	D	U+0044	ɗ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	d	U+0064	ɗ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	dy	U+0064 U+0079	ʄ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	E	U+0045	ɛː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	e	U+0065	ɛː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ei	U+0065 U+0069	iː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ea	U+0065 U+0061	ia		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	É	U+00C9	ɛ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	é	U+00E9	ɛ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	éi	U+00E9 U+0069	i		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ê	U+00CA	eː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ê	U+00EA	eː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ế	U+1EBE	e		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ế	U+1EBF	e		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	G	U+0047	g		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	g	U+0067	g		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	H	U+0048	h		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	h	U+0068	h		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	I	U+0049	iː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	i	U+0069	iː	В конце слова [j]		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ia	U+0069 U+0061	iƏ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	iê	U+0069 U+00EA	iƏ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Í	U+00CD	i		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	í	U+00ED	i		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	K	U+004B	k		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Kh	U+004B U+0068	kh		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	k	U+006B	k		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	kh	U+006B U+0068	kh		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	L	U+004C	l		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	l	U+006C	l		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	M	U+004D	m		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	m	U+006D	m		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	N	U+004E	ṋ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Nh	U+004E U+0068	ɲ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Nch	U+004E U+0063 U+0068	ʔəɲc		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	n	U+006E	ṋ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	nh	U+006E U+0068	ɲ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	nch	U+006E U+0063 U+0068	ʔəɲc		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ng	U+006E U+0067	ŋ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	O	U+004F	ɔː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	o	U+006F	ɔː	В конце слова [w]		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ou	U+006F U+0075	u˷ː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	oa	U+006F U+0061	ua		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ó	U+00D3	ɔ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ó	U+00F3	ɔ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	óu	U+00F3 U+0075	u˷		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ô	U+00D4	oː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ô	U+00F4	oː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ố	U+1ED0	o		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ố	U+1ED1	o		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ơ	U+01A0	ɤː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ơ	U+01A1	ɤː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ơa	U+01A1 U+0061	ɯ˷a		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	P	U+0050	p		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ph	U+0050 U+0068	ph		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	p	U+0070	p		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ph	U+0070 U+0068	ph		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Q	U+0051	ʔ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	q	U+0071	ʔ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	R	U+0052	ř		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	r	U+0072	ř		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	T	U+0054	ṱ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Th	U+0054 U+0068	th	Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	t	U+0074	ṱ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	th	U+0074 U+0068	th		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	tha	U+0074 U+0068 U+0061	ṱh		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	U	U+0055	uː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	u	U+0075	uː	В конце слова [w]		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ua	U+0075 U+0061	uƏ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	uô	U+0075 U+00F4	uƏ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ú	U+00DA	u		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ú	U+00FA	u		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ư	U+01AF	ɯː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ư	U+01B0	ɯː		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ưa	U+01B0 U+0061	ɯƏ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ươ	U+01B0 U+01A1	ɯƏ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Ứ	U+1EE8	ɯ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	ứ	U+1EE9	ɯ		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	V	U+0056	v	В начале слова	Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	v	U+0076	v	В начале слова	Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	X	U+0058	s		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	x	U+0078	s		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	Y	U+0059	j		Watsons,Canxóiq 2013: 11-15		Daria Demkina
+Pacoh	y	U+0079	j		Watsons,Canxóiq 2013: 11-15		Daria Demkina

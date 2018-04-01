@@ -1,0 +1,104 @@
+script	grapheme	unicode	IPA	comment	source	omniglot
+Nganasan	А	U+0410	a		Zhovnitskaja 2009: 16-27	
+Nganasan	Аа	U+0410 U+0430	аː		Zhovnitskaja 2009: 16-27	
+Nganasan	Ау	U+0410 U+0443	аu		Zhovnitskaja 2009: 16-27	
+Nganasan	а	U+0430	a		Zhovnitskaja 2009: 16-27	
+Nganasan	аа	U+0430 U+0430	аː		Zhovnitskaja 2009: 16-27	
+Nganasan	ау	U+0430 U+0443	аu		Zhovnitskaja 2009: 16-27	
+Nganasan	Б	U+0411	b		Zhovnitskaja 2009: 16-27	
+Nganasan	б	U+0431	b		Zhovnitskaja 2009: 16-27	
+Nganasan	В	U+0412		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	в	U+0432		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	Г	U+0413	g		Zhovnitskaja 2009: 16-27	
+Nganasan	г	U+0433	g		Zhovnitskaja 2009: 16-27	
+Nganasan	Д	U+0414	d		Zhovnitskaja 2009: 16-27	
+Nganasan	д	U+0434	d		Zhovnitskaja 2009: 16-27	
+Nganasan	Е	U+0415	je		Zhovnitskaja 2009: 16-27	
+Nganasan	Еа	U+0415 U+0430	ɨa		Zhovnitskaja 2009: 16-27	
+Nganasan	е	U+0435	je		Zhovnitskaja 2009: 16-27	
+Nganasan	еа	U+0435 U+0430	ɨa		Zhovnitskaja 2009: 16-27	
+Nganasan	Ё	U+0401	jo	Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	ё	U+0451	jo	Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	Ж	U+0416		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	ж	U+0436		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	З	U+0417		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	з	U+0437		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	З̌	U+041 U+030C	ð		Zhovnitskaja 2009: 16-27	
+Nganasan	з̌	U+0437 U+030C	ð		Zhovnitskaja 2009: 16-27	
+Nganasan	И	U+0418	i	После переднеязычных согласных приобретает характер более заднего звука между гласными И и Ы	Zhovnitskaja 2009: 16-27	
+Nganasan	Иа	U+0418 U+0430	ia		Zhovnitskaja 2009: 16-27	
+Nganasan	Иə	U+0418 U+04D9	iə		Zhovnitskaja 2009: 16-27	
+Nganasan	и	U+0438	i	После переднеязычных согласных приобретает характер более заднего звука между гласными И и Ы	Zhovnitskaja 2009: 16-27	
+Nganasan	иа	U+0438 U+0430	ia		Zhovnitskaja 2009: 16-27	
+Nganasan	иə	U+0438 U+04D9	iə		Zhovnitskaja 2009: 16-27	
+Nganasan	Й	U+0419	j		Zhovnitskaja 2009: 16-27	
+Nganasan	й	U+0439	j		Zhovnitskaja 2009: 16-27	
+Nganasan	’’	U+2019 U+2019	ʔ	Глухой гортанный смычный. Добавляется к предшествующему звуку, если слово обозначает множественное число	Zhovnitskaja 2009: 16-27	
+Nganasan	К	U+041A	k		Zhovnitskaja 2009: 16-27	
+Nganasan	к	U+043A	k		Zhovnitskaja 2009: 16-27	
+Nganasan	Л	U+041B	l		Zhovnitskaja 2009: 16-27	
+Nganasan	л	U+043B	l		Zhovnitskaja 2009: 16-27	
+Nganasan	М	U+041C	m		Zhovnitskaja 2009: 16-27	
+Nganasan	м	U+043C	m		Zhovnitskaja 2009: 16-27	
+Nganasan	Н	U+041D	n		Zhovnitskaja 2009: 16-27	
+Nganasan	н	U+043D	n		Zhovnitskaja 2009: 16-27	
+Nganasan	Ӈ	U+04C7	ŋ		Zhovnitskaja 2009: 16-27	
+Nganasan	ӈ	U+04C8	ŋ		Zhovnitskaja 2009: 16-27	
+Nganasan	О	U+041E	o		Zhovnitskaja 2009: 16-27	
+Nganasan	Оу	U+041E U+0443	ou		Zhovnitskaja 2009: 16-27	
+Nganasan	о	U+043E	o		Zhovnitskaja 2009: 16-27	
+Nganasan	оу	U+043E U+0443	ou		Zhovnitskaja 2009: 16-27	
+Nganasan	Ө	U+04E8	e		Zhovnitskaja 2009: 16-27	
+Nganasan	ө	U+04E9	e		Zhovnitskaja 2009: 16-27	
+Nganasan	П	U+041F	p		Zhovnitskaja 2009: 16-27	
+Nganasan	п	U+043F	p		Zhovnitskaja 2009: 16-27	
+Nganasan	Р	U+0420	r		Zhovnitskaja 2009: 16-27	
+Nganasan	р	U+0440	r		Zhovnitskaja 2009: 16-27	
+Nganasan	С	U+0421	s		Zhovnitskaja 2009: 16-27	
+Nganasan	с	U+0441	s		Zhovnitskaja 2009: 16-27	
+Nganasan	Ç	U+00C7	ç		Zhovnitskaja 2009: 16-27	
+Nganasan	ç	U+00E7	ç		Zhovnitskaja 2009: 16-27	
+Nganasan	Т	U+0422	t		Zhovnitskaja 2009: 16-27	
+Nganasan	т	U+0442	t		Zhovnitskaja 2009: 16-27	
+Nganasan	У	U+0423	u		Zhovnitskaja 2009: 16-27	
+Nganasan	Уа	U+0423 U+0430	ua		Zhovnitskaja 2009: 16-27	
+Nganasan	Уо	U+0423 U+043E	uo		Zhovnitskaja 2009: 16-27	
+Nganasan	у	U+0443	u		Zhovnitskaja 2009: 16-27	
+Nganasan	уа	U+0443 U+0430	ua		Zhovnitskaja 2009: 16-27	
+Nganasan	уо	U+0443 U+043E	uo		Zhovnitskaja 2009: 16-27	
+Nganasan	Ү	U+04AE	y	Сильно замкнутое У с большим вытягиванием губ	Zhovnitskaja 2009: 16-27	
+Nganasan	Үө	U+04AE U+04E9	ya		Zhovnitskaja 2009: 16-27	
+Nganasan	Үо	U+04AE U+043E	yo		Zhovnitskaja 2009: 16-27	
+Nganasan	ү	U+04AF	y	Сильно замкнутое У с большим вытягиванием губ	Zhovnitskaja 2009: 16-27	
+Nganasan	үө	U+04AF U+04E9	ya		Zhovnitskaja 2009: 16-27	
+Nganasan	үо	U+04AF U+043E	yo		Zhovnitskaja 2009: 16-27	
+Nganasan	Ф	U+0424		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	ф	U+0444		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	Х	U+0425	x		Zhovnitskaja 2009: 16-27	
+Nganasan	х	U+0445	x		Zhovnitskaja 2009: 16-27	
+Nganasan	Ц	U+0426		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	ц	U+0446		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	Ч	U+0427		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	ч	U+0447		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	Ш	U+0428		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	ш	U+0448		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	Щ	U+0429		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	щ	U+0449		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	Ъ	U+042A		Не обозначает звука, употребляется как и в русском	Zhovnitskaja 2009: 16-27	
+Nganasan	ъ	U+044A		Не обозначает звука, употребляется как и в русском	Zhovnitskaja 2009: 16-27	
+Nganasan	Ы	U+042B	ɨ		Zhovnitskaja 2009: 16-27	
+Nganasan	Ыә	U+042B U+04D9	ɨə		Zhovnitskaja 2009: 16-27	
+Nganasan	ы	U+044B	ɨ		Zhovnitskaja 2009: 16-27	
+Nganasan	ыә	U+044B U+04D9	ɨə		Zhovnitskaja 2009: 16-27	
+Nganasan	Ь	U+042C		Не обозначает звука, употребляется как и в русском	Zhovnitskaja 2009: 16-27	
+Nganasan	ь	U+044C		Не обозначает звука, употребляется как и в русском	Zhovnitskaja 2009: 16-27	
+Nganasan	Э	U+042D		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	э	U+044D		Такой звук отсутствует в нганасанском языке. Буква для обозначения этого звука введена в алфавит для правильного написания слов, заимствованных из русского языка	Zhovnitskaja 2009: 16-27	
+Nganasan	Ә	U+04D8	ə		Zhovnitskaja 2009: 16-27	
+Nganasan	Әу	U+04D8 U+0443	əu		Zhovnitskaja 2009: 16-27	
+Nganasan	ә	U+04D9	ə		Zhovnitskaja 2009: 16-27	
+Nganasan	әу	U+04D9 U+0443	əu		Zhovnitskaja 2009: 16-27	
+Nganasan	Ю	U+042E	ju		Zhovnitskaja 2009: 16-27	
+Nganasan	ю	U+044E	ju		Zhovnitskaja 2009: 16-27	
+Nganasan	Я	U+042F	ʝ		Zhovnitskaja 2009: 16-27	
+Nganasan	я	U+044F	ʝ		Zhovnitskaja 2009: 16-27	

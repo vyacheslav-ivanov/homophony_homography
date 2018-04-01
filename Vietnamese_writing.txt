@@ -1,0 +1,117 @@
+script	grapheme	unicode	IPA	comment	source	omniglot	contributor
+Vietnamese	A	U+0041	a		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ach	U+0041 U+0063 U+0068	ɐc		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Anh	U+0041 U+006E U+0068	ɐɲ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	a	U+0061	a		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ach	U+0061 U+0063 U+0068	ɐc		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	anh	U+0061 U+006E U+0068	ɐɲ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ai	U+0061 U+0069	ai		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ay	U+0061 U+0079	ɐi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ao	U+0061 U+006F	au		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	au	U+0061 U+0075	ɐu		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ă	U+0102	ɐ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ă	U+0103	ɐ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Â	U+00C2	ʌ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	â	U+00E2	ʌ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	âu	U+00E2 U+0075	ʌu		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ây	U+00E2 U+0079	ʌi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	B	U+0042	ɓ	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	b	U+0062	ɓ	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	C	U+0043	k		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ch	U+0043 U+0068	c		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	c	U+0063	k		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ch	U+0063 U+0068	c		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	D	U+0044	z/ʒ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	d	U+0064	z/ʒ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ð	U+00D0	ɗ	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	đ	U+0111	ɗ	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	E	U+0045	ɛ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	e	U+0065	ɛ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	eo	U+0065 U+006F	ɛu		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ê	U+00CA	e		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ê	U+00EA	e		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	êu	U+00EA U+0075	eu		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	G	U+0047	g	В начале слова не перед i, e, ê.	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Gh	U+0047 U+0068	g	В начале слова перед i, e, ê.	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Gi	U+0047 U+0069	zi	В начале слова перед согласным, ê или ничем.	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	g	U+0067	g	В начале слова, но не перед i, e, ê.	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	gh	U+0067 U+0068	g	В начале слова перед i, e, ê.	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	gi	U+0067 U+0069	zi	В начале слова перед согласным, ê или ничем.	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	H	U+0048	h	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	h	U+0068	h	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	I	U+0049	i		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	i	U+0069	i		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ia	U+0069 U+0061	iə		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	iê	U+0069 U+00EA	ie˫		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	iêu	U+0069 U+00EA U+0075	ie˫u		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	iu	U+0069 U+0075	iu		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	K	U+004B	k		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Kh	U+004B U+0068	x	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	k	U+006B	k		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	kh	U+006B U+0068	x	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	L	U+004C	l		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	l	U+006C	l		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	M	U+004D	m		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	m	U+006D	m		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	N	U+004E	n		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Nh	U+004E U+0068		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	n	U+006E	n		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	nh	U+006E U+0068	ɲ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ngh	U+006E U+0067 U+0068	ŋ	В начале слова перед гласными i,e,ê.	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ng	U+006E U+0067	ŋ	В начале слова перед остальными гласными.	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	O	U+004F	ɔ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	o	U+006F	ɔ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	oa	U+006F U+0061	wa		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	oi	U+006F U+0069	ɔi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	oă	U+006F U+0103	wɐ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	oe	U+006F U+0065	wɛ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	oai	U+006F U+0061 U+0069	wai		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ô	U+00D4	o		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ô	U+00F4	o		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ôi	U+00F4 U+0069	oi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ơ	U+01A0	ɤ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ơ	U+01A1	ɤ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ơi	U+01A1 U+0069	ɤi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	P	U+0050	p	Только в конце слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ph	U+0050 U+0068	f	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	p	U+0070	p	Только в конце слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ph	U+0070 U+0068	f	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Q	U+0051	k		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Qu	U+0051 U+0075	kw	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	q	U+0071	k		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	qu	U+0071 U+0075	kw	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	R	U+0052	z		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	r	U+0072	z		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	S	U+0053	s/ʂ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	s	U+0073	s/ʂ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	T	U+0054	t		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Th	U+0054 U+0068	tʰ	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Tr	U+0054 U+0072	c	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	t	U+0074	t		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	th	U+0074 U+0068	tʰ	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	tr	U+0074 U+0072	c	Только в начале слова	Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	U	U+0055	u		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	u	U+0075	u		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ua	U+0075 U+0061	uə		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ui	U+0075 U+0069	ui		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	uô	U+0075 U+00F4	uɵ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	uơ	U+0075 U+01A1	wɤ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	uôi	U+0075 U+00F4 U+0069	uɵi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	uê	U+0075 U+00EA	wei		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	uâ	U+0075 U+00E2	wʌ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	uy	U+0075 U+0079	wi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	uyê	U+0075 U+0079 U+00EA	wie˫		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Ư	U+01AF	ɯ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ư	U+01B0	ɯ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ươ	U+01B0 U+01A1	ɯɤ		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ưa	U+01B0 U+0061	ɯə		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ưi	U+01B0 U+0069	ɯi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ươi	U+01B0 U+01A1 U+0069	ɯɤi		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	ưu	U+01B0 U+0075	ɯu		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	V	U+0056	v		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	v	U+0076	v		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	X	U+0058	s		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	x	U+0078	s		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	Y	U+0059	i		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	y	U+0079	i		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina
+Vietnamese	yêu	U+0079 U+00EA U+0075	ie˫w		Thompson 1987: 3-17	http://omniglot.com/writing/vietnamese.htm	Daria Demkina

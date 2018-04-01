@@ -1,0 +1,93 @@
+script	grapheme	unicode	IPA	comment	source	omniglot	contributor
+Wa	P	U+0050	p		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Ph	U+0050 U+0068	pʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	p	U+0070	p		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ph	U+0070 U+0068	pʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	T	U+0054	t		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Th	U+0054 U+0068	tʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	t	U+0074	t		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	th	U+0074 U+0068	tʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	C	U+0043	c		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Ch	U+0043 U+0068	cʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	c	U+0063	c		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ch	U+0063 U+0068	cʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	K	U+004B	k		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Kh	U+004B U+0068	kʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	k	U+006B	k		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	kh	U+006B U+0068	kʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	X	U+0058	ʔ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	x	U+0078	ʔ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	B	U+0042	ᵐb		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Bh	U+0042 U+0068	ᵐbʱ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	b	U+0062	ᵐb		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	bh	U+0062 U+0068	ᵐbʱ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	D	U+0044	ⁿd		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Dh	U+0044 U+0068	ⁿdʱ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	d	U+0064	ⁿd		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	dh	U+0064 U+0068	ⁿdʱ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	J	U+004A	ᶮɟ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Jh	U+004A U+0068	ᶮɟʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	j	U+006A	ᶮɟ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	jh	U+006A U+0068	ᶮɟʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	G	U+0047	ᵑg		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Gh	U+0047 U+0068	ᵑgʱ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	g	U+0067	ᵑg		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	gh	U+0067 U+0068	ᵑgʱ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	M	U+004D	m		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Mh	U+004D U+0068	mʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	m	U+006D	m		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	mh	U+006D U+0068	mʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	N	U+004E	n		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Nh	U+004E U+0068	nʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	n	U+006E	n		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	nh	U+006E U+0068	nʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ny	U+006E U+0079	ɲ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	nyh	U+006E U+0079 U+0068	ɲʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ng	U+006E U+0067	ŋ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ngh	U+006E U+0067 U+0068	ŋʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	S	U+0053	s		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	s	U+0073	s		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	H	U+0048	h		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	h	U+0068	h		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	V	U+0056	v		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Vh/f	U+0056 U+0068/U+0066	vʱ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	v	U+0076	v		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	vh/f	U+0076 U+0068/U+0066	vʱ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	R	U+0052	r		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Rh	U+0052 U+0068	rʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	r	U+0072	r		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	rh	U+0072 U+0068	rʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Y	U+0059	j		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Yh	U+0059 U+0068	jʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	y	U+0079	j		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	yh	U+0079 U+0068	jʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	L	U+004C	l		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	Lh	U+004C U+0068	lʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	l	U+006C	l		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	lh	U+006C U+0068	lʰ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	I	U+0049	i		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	i	U+0069	i		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ie	U+0069 U+0065	ɛ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	iu	U+0069 U+0075	iu		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ia	U+0069 U+0061	ia		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	iao	U+0069 U+0061 U+006F	iau		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ee	U+0065 U+0065	ɯ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	eei/ui	U+0065 U+0065 U+0069/U+0075 U+0069	ɯi		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	U	U+0055	u		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	u	U+0075	u		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ui/wi	U+0075 U+0069/U+0077 U+0069	ui		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ua/wa	U+0075 U+0061/U+0077 U+0061	ua		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	E	U+0045	e		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	e	U+0065	e/ei		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	eu	U+0065 U+0075	ɤ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	eue	U+0065 U+0075 U+0065	ɤi		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	O	U+004F	o/ou		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	o	U+006F	o/ou		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	oi/oe/we	U+006F U+0069/U+006F U+0065/U+0077 U+0065	oi~ɔi		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	oe	U+006F U+0065	uai		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	A	U+0041	a		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	a	U+0061	a		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	aw	U+0061 U+0077	ɔ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	ai	U+0061 U+0069	ai		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	au	U+0061 U+0075	aɯ		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
+Wa	au/ao	U+0061 U+0075/U+0061 U+006F	au		Mai 2012: 14-18	http://omniglot.com/writing/wa.htm	Daria Demkina
